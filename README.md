@@ -1,1 +1,3 @@
-# about_xeureka
+# Xeureka, Inc.
+
+## About Xeureka
